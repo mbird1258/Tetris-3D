@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Orange
+  m_Name: Ghost
   m_Shader: {fileID: 4800000, guid: 59fa010a61f434c3dac96a0d18783259, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -30,6 +30,6 @@ Material:
     m_Ints: []
     m_Floats: []
     m_Colors:
-    - _BottomColour: {r: 1, g: 0.627451, b: 0, a: 0.3764706}
-    - _TopColour: {r: 1, g: 0.62745106, b: 0, a: 0.36862746}
+    - _BottomColour: {r: 0, g: 0, b: 0, a: 0.2509804}
+    - _TopColour: {r: 0, g: 0, b: 0, a: 0.2509804}
   m_BuildTextureStacks: []

@@ -50,7 +50,7 @@ namespace UnityEngine.XR.ARFoundation.Samples
 
             if (PlayField == transform.Find("Play Field").gameObject) //
             { //
-                PlayField.transform.RotateAround(ARPlaceAnchor.pos, ARPlaceAnchor.rot, 1); //
+                // PlayField.transform.RotateAround(ARPlaceAnchor.pos, ARPlaceAnchor.rot, 1); //
             } //
         }
     }
