@@ -45,4 +45,4 @@ The gameplay is pretty good, and the layer clearing doesn't feel too generous no
 6. Build to phone with dev mode on
 
 ### AR in Unity
-[Extremely basic advice for people new to Unity of the steps I took](https://docs.google.com/document/d/1w887tpPC6shVJ-CHISTkWjOqlukl-SRaOOWrE0_Jjtc/edit?usp=sharing)
+[Extremely basic advice for people new to Unity of the steps I took](https://docs.google.com/document/d/1TtO515bt9dy3PUkCSp-U0Tk1L7XRlGaFhJ36UeXZ_IQ/edit?usp=sharing)
