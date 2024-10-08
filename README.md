@@ -9,8 +9,9 @@ My plan for this project was to create Tetris 3D with Unity using the AR Foundat
 ## Controls
 Soft fall: hold down top half of screen
 Hard fall: swipe down starting at top half of screen
-Toggle movement/translation: tap bottom half of screen
-Translation/Rotation: drag finger in bottom half of screen
+
+Toggle translation/rotation: tap bottom half of screen
+Translation/rotation: drag finger in bottom half of screen
 
 ## Mechanics
 ### Soft Bodies
