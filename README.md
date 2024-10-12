@@ -1,5 +1,7 @@
 AR Tetris 3D with Unity
 ==============================
+Blog post: [https://matthew-bird.com/blogs/Tetris-3D.html](https://matthew-bird.com/blogs/Tetris-3D.html)
+
 ### Note
 Everything here is completely based off of the AR Foundation Samples github repository. Anything new is usually in a folder called Original Content. 
 
